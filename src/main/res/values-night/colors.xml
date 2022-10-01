@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EDEDED</color>
+    <color name="colorPrimaryDark">#4B7871</color>
+    <color name="colorAccent">#4B7871</color>
+    <color name="Headings">#4B7871</color>
+    <color name="Header">#4B7871</color>
+    <color name ="Background"> #000000 </color>
+    <color name ="fadedBack">#252424</color>
+    <color name="buttonText">#FFF9F9</color>
+</resources>

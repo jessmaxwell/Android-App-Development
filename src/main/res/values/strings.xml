@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="tab_page1">Page 1</string>
+    <string name="tab_page2">Page 2</string>
+    <string name="Frag1Text">Fragment 1 Text</string>
+    <string name="Frag2Text">Fragment 2 Text</string>
+    <string name="convertFrom">Convert \nFrom:</string>
+    <string name="convertTo">Convert \n To:</string>
+    <string name="selectType">Unit Type:</string>
+    <string name="SAVE" />
+    <string name="Next">NEXT</string>
+    <string name="typeLabel">Unit Type:</string>
+    <string name="convertFromLabel">Convert \n From:</string>
+    <string name="unitName">Unit:</string>
+    <string name="conversionLabel">Convert</string>
+    <string name="Clear">Clear</string>
+    <string name="back">BACK</string>
+    <string name="btnSave">SAVE</string>
+    <string name="convertBtn">CONVERT</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is an attempt to use the navigation feature to allow the user to move between fragments using buttons-->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navGraph"
+    app:startDestination="@id/page1Fragment">
+
+    <fragment
+        android:id="@+id/page1Fragment"
+        android:name="uk.ac.stir.cs.assignment.Page1Fragment"
+        android:label="Page1Fragment" >
+        <action
+            android:id="@+id/action_page1Fragment_to_page2Fragment"
+            app:destination="@id/page2Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/page2Fragment"
+        android:name="uk.ac.stir.cs.assignment.Page2Fragment"
+        android:label="Page2Fragment" >
+        <action
+            android:id="@+id/action_page2Fragment_to_page1Fragment"
+            app:destination="@id/page1Fragment" />
+    </fragment>
+
+</navigation>

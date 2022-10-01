@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools = "http://schemes.android.com/tools">
+<color name="colorPrimary">#EDEDED</color>
+<color name="colorPrimaryDark">#6DC4B6</color>
+<color name="colorAccent">#6DC4B6</color>
+<color name="Headings">#6DC4B6</color>
+<color name="Header">#6DC4B6</color>
+<color name ="Background"> #FFFFFF </color>
+<color name ="fadedBack">#EDEDED</color>
+<color name="buttonText">#747474</color>
+</resources>
+
