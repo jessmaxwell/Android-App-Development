@@ -1,0 +1,16 @@
+kgToGram 1000.00f
+poundToOunce 16.0f
+gramsToPound 0.00220462f
+ounceToKg 0.0283495f
+mphToKph 1.60934f
+kphToMps 0.277778f
+mpsToMph 2.23694f
+knotToMps 0.514444f
+yardToMile 0.000568182f
+mileToKm 1.6093f
+kmToYard 1093.61f
+mToYard 1.09361f
+dayToHour 24.00f
+minToSec 60.00f
+secToDay 1.15741e-5f
+hoursToMin 60.00f
